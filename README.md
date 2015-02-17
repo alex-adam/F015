@@ -8,4 +8,13 @@ It includes:
  - animated and clickable checkpoints on the itinerary grouped into three different topics: social, places, and music.
 
 
-First time ever project with Qt.
+*First time ever project with Qt.*
+
+# Video
+
+ - [**F 015 Interface**](https://vimeo.com/119844895)
+
+# Resources
+
+ - [**F 015 picture**](https://www.mercedes-benz.com/en/mercedes-benz/innovation/research-vehicle-f-015-luxury-in-motion/)
+ - [**Inspiration**](https://www.youtube.com/watch?v=rBvTjsbkGEo)
